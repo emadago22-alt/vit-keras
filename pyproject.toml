@@ -7,7 +7,7 @@ omit = []
 
 [project]
 authors = [{ name = "Fausto Morales", email = "fausto@robinbay.com" }]
-requires-python = ">=3.10,<3.12"
+requires-python = ">=3.10"
 classifiers = [
     "Operating System :: POSIX :: Linux",
     "Operating System :: Unix",
